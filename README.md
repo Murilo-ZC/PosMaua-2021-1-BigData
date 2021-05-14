@@ -13,8 +13,12 @@ Descrição de como o repositório está organizado.
 - [Curso de Git e Github - Loiane](https://www.youtube.com/watch?v=UMhskLXJuq4)
 - [Apostila Caelum de Python](https://www.caelum.com.br/apostila/apostila-python-orientacao-a-objetos.pdf)
 - [Atualizando um **fork** do Github](https://www.lambda3.com.br/2016/02/mantendo-um-fork-atualizado-no-github/)
+- [BigData com R](https://github.com/rstudio/bigdataclass)
 
 ### Datasets:
 
--[Awesome Data](https://github.com/awesomedata/awesome-public-datasets)
+- [Awesome Data](https://github.com/awesomedata/awesome-public-datasets)
+- [Awesome BigData](https://github.com/0xnr/awesome-bigdata)
+
+### Infraestrutura:
 
