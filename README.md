@@ -14,6 +14,7 @@ Descrição de como o repositório está organizado.
 - [Apostila Caelum de Python](https://www.caelum.com.br/apostila/apostila-python-orientacao-a-objetos.pdf)
 - [Atualizando um **fork** do Github](https://www.lambda3.com.br/2016/02/mantendo-um-fork-atualizado-no-github/)
 - [BigData com R](https://github.com/rstudio/bigdataclass)
+- [Comando do Comuns do Docker - William Oliveira](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/)
 
 ### Datasets:
 
