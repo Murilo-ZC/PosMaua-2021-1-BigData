@@ -15,6 +15,7 @@ Descrição de como o repositório está organizado.
 - [Atualizando um **fork** do Github](https://www.lambda3.com.br/2016/02/mantendo-um-fork-atualizado-no-github/)
 - [BigData com R](https://github.com/rstudio/bigdataclass)
 - [Comando do Comuns do Docker - William Oliveira](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/)
+- [Tutorial sobre Docker da Linuxtips](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_)
 
 ### Datasets:
 
@@ -23,3 +24,10 @@ Descrição de como o repositório está organizado.
 
 ### Infraestrutura:
 
+Pessoal a infraestrutura que vamos utilizar foi desenvolvida pelo prof. [Fábio Jardim](https://github.com/fabiogjardim/bigdata_docker) para estudos de Big Data.
+
+- [Instalação do WSL2: Documentação e Link Oficial](https://docs.microsoft.com/pt-br/windows/wsl/about)
+- [Procedimento para instalação do WSL2 -  Documentação Oficial](https://docs.microsoft.com/pt-br/windows/wsl/install-win10)
+- [Video tutorial: Instalação do WSL2 e do Docker no Windows 10 - Por Marcus Pereira](https://www.youtube.com/watch?v=oQ08ZaOAiGU)
+- [Infra estrutura de BigData elaborada pelo prof. Fábio Jardim](https://github.com/fabiogjardim/bigdata_docker)
+- [Git Bash for Windows - Para fazer o download por linha de comando direto no diretório](https://gitforwindows.org/)
