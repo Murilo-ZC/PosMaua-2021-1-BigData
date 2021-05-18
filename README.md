@@ -16,6 +16,8 @@ Descrição de como o repositório está organizado.
 - [BigData com R](https://github.com/rstudio/bigdataclass)
 - [Comando do Comuns do Docker - William Oliveira](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/)
 - [Tutorial sobre Docker da Linuxtips](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_)
+- [Big Data Europe](https://www.big-data-europe.eu/)
+- [*Setup* do Cluster Hadoop com o Docker e imagens Big Data Europe](https://clubhouse.io/developer-how-to/how-to-set-up-a-hadoop-cluster-in-docker/)
 
 ### Datasets:
 
@@ -31,3 +33,8 @@ Pessoal a infraestrutura que vamos utilizar foi desenvolvida pelo prof. [Fábio 
 - [Video tutorial: Instalação do WSL2 e do Docker no Windows 10 - Por Marcus Pereira](https://www.youtube.com/watch?v=oQ08ZaOAiGU)
 - [Infra estrutura de BigData elaborada pelo prof. Fábio Jardim](https://github.com/fabiogjardim/bigdata_docker)
 - [Git Bash for Windows - Para fazer o download por linha de comando direto no diretório](https://gitforwindows.org/)
+
+### Outros links de Infraestrutura:
+
+Pessoal por hora vamos utilizar a infra-estrutura proposta pelo prof. Fábio, mas esses outros projetos também são bastante interessantes, vale a pena dar uma olhada.
+- [Big Data Europe](https://github.com/big-data-europe)
