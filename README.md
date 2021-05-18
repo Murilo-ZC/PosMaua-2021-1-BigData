@@ -18,6 +18,7 @@ Descrição de como o repositório está organizado.
 - [Tutorial sobre Docker da Linuxtips](https://www.youtube.com/watch?v=0xxHiOSJVe8&list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_)
 - [Big Data Europe](https://www.big-data-europe.eu/)
 - [*Setup* do Cluster Hadoop com o Docker e imagens Big Data Europe](https://clubhouse.io/developer-how-to/how-to-set-up-a-hadoop-cluster-in-docker/)
+- [Criação de um *Cluster* Spark utilizando Docker](https://medium.com/agile-lab-engineering/how-to-create-an-apache-spark-3-0-development-cluster-on-a-single-machine-using-docker-964478c3735b)
 
 ### Datasets:
 
