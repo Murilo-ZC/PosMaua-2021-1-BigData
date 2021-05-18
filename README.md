@@ -3,6 +3,9 @@ Repositório criado para a disciplina de BigData 2021-1
 
 Linguagem para desenvolver o **README** = *Markdown*.
 
+## Roadmap ***Data Engineering***:
+> https://github.com/datastacktv/data-engineer-roadmap
+
 ## Estrutura do Repositório:
 
 Descrição de como o repositório está organizado.
