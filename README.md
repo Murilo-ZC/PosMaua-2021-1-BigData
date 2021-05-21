@@ -22,6 +22,7 @@ Descrição de como o repositório está organizado.
 - [Big Data Europe](https://www.big-data-europe.eu/)
 - [*Setup* do Cluster Hadoop com o Docker e imagens Big Data Europe](https://clubhouse.io/developer-how-to/how-to-set-up-a-hadoop-cluster-in-docker/)
 - [Criação de um *Cluster* Spark utilizando Docker](https://medium.com/agile-lab-engineering/how-to-create-an-apache-spark-3-0-development-cluster-on-a-single-machine-using-docker-964478c3735b)
+- [Lista de Comandos para o HDFS](https://images.linoxide.com/hadoop-hdfs-commands-cheatsheet.pdf)
 
 ### Datasets:
 
@@ -30,7 +31,7 @@ Descrição de como o repositório está organizado.
 
 ### Infraestrutura:
 
-Pessoal a infraestrutura que vamos utilizar foi desenvolvida pelo prof. [Fábio Jardim](https://github.com/fabiogjardim/bigdata_docker) para estudos de Big Data.
+Pessoal a infraestrutura que vamos utilizar foi desenvolvida pelo prof. [Fábio Jardim](https://github.com/fabiogjardim/bigdata_docker) para estudos de Big Data. Para estrair os arquivos dos *datasets*, recomenda-se utilizar o [7-ZIP]().
 
 - [Instalação do WSL2: Documentação e Link Oficial](https://docs.microsoft.com/pt-br/windows/wsl/about)
 - [Procedimento para instalação do WSL2 -  Documentação Oficial](https://docs.microsoft.com/pt-br/windows/wsl/install-win10)
