@@ -24,6 +24,12 @@ Descrição de como o repositório está organizado.
 - [Criação de um *Cluster* Spark utilizando Docker](https://medium.com/agile-lab-engineering/how-to-create-an-apache-spark-3-0-development-cluster-on-a-single-machine-using-docker-964478c3735b)
 - [Lista de Comandos para o HDFS](https://images.linoxide.com/hadoop-hdfs-commands-cheatsheet.pdf)
 
+### Videos Interessantes:
+
+Pessoal nessa seção vou deixar alguns vídeos que eu acho que são interessantes.
+
+-[ORM vs SQL puro - Pontos de vista do Balta e do Branas](https://www.youtube.com/watch?v=ifwfr1qMH3g)
+
 ### Datasets:
 
 - [Awesome Data](https://github.com/awesomedata/awesome-public-datasets)
